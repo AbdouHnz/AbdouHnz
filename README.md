@@ -1,27 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdennour Hanaizi
 =========================================================================================================================================
 
-       <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .fancy-title {
-      font-family: 'Arial', sans-serif;
-      font-size: 2.5em;
-      color: #4CAF50;
-      text-shadow: 2px 2px 4px #000000;
-      text-align: center;
-      margin-top: 20px;
-    }
-  </style>
-  <title>About Me</title>
-</head>
-<body>
-  <h1 class="fancy-title">About Me</h1>
-</body>
-</html>
+ <h1>About Me</h1>
+
 ----------------
 
 About Me Hi! I’m a student at computer science, currently studying at the University of Science and Technology Houari Boumediene (USTHB) in Algeria. I’m passionate about learning new programming languages, improving my coding skills, and understanding various computer science concepts. Projects Here are some of the projects I’m working on: 1. Learning Programming Languages Description: Exploring different programming languages and their applications. Languages: Python, Java, C++, JavaScript. 2. GitHub and Version Control Description: Understanding and utilizing GitHub for version control and collaboration. Tools: Git, GitHub. Goals Enhance my coding skills through practice and projects. Learn and master new programming languages. Contribute to open-source projects. Collaborate with other developers and learn from the community. Contact Feel free to reach out to me if you have any questions or if you’d like to collaborate on a project! Email: abdennour.hanaizi@etu.usthb.dz Acknowledgements Thanks to my professors and peers at USTHB for their support and guidance. Special thanks to the online developer community for providing valuable resources and tutorials.
